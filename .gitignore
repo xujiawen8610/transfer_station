@@ -1,0 +1,11 @@
+# 虚拟环境
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# 敏感信息
+.env
+
+# 日志数据（Agent 交互记录）
+logs/
